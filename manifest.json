@@ -3,9 +3,6 @@
   "name": "Roblox Banner Remover",
   "version": "1.0",
   "description": "Removes the banner on top of the Roblox website asking you to use the desktop app"
-}
-{
-  ...
   "content_scripts": [
     {
       "js": ["remover.js"],
